@@ -635,8 +635,8 @@ progress {
   width: 100%;
   padding-right: var(--bs-gutter-x, 0.75rem);
   padding-left: var(--bs-gutter-x, 0.75rem);
-  margin-right: auto;
-  margin-left: auto;
+  margin-right: 5rem;
+  margin-left: 7rem;
 }
 
 @media (min-width: 576px) {
@@ -7307,7 +7307,7 @@ textarea.form-control-lg {
 }
 
 .mt-5 {
-  margin-top: 15rem !important;
+  margin-top: 10rem !important;
 }
 
 .mt-auto {
@@ -7335,7 +7335,7 @@ textarea.form-control-lg {
 }
 
 .me-5 {
-  margin-right: 4rem !important;
+  margin-right: 5rem !important;
 }
 
 .me-auto {
@@ -11274,6 +11274,6 @@ textarea.form-control-lg {
   }
 }
 body {
-  background: url("https://dummyimage.com/1920x1080/dee2e6/6c757d.jpg") no-repeat center center fixed;
+  background:  no-repeat center center fixed;
   background-size: cover;
 }
