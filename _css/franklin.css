@@ -84,6 +84,7 @@ html {
   padding-left: 12.5%;
   padding-right: 12.5%;
   line-height: 1.35em;
+  text-align: justify;
 }
 
 /* On wide screens, fix content width to a max value. */
@@ -125,6 +126,7 @@ h6 {
   border-bottom: 3px double lightgrey;
   margin-top: 1.5em;
   margin-bottom: 1em;
+  text-align: right;
 }
 
 .franklin-content h2 {

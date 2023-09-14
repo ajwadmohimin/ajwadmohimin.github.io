@@ -37,6 +37,11 @@ nav li a {
   transition: color 0.3s ease;
 }
 
+/* nav ul li a:active{
+  color: #444;
+  transition: color 1s ease;
+} */
+
 header {
   text-align: right;
   margin-top: 50px;
@@ -59,8 +64,14 @@ header .blog-name a {
   text-decoration: none;
 }
 
+
 header li a:hover {
-  color: rgb(17, 17, 16);
+  color: rgb(12, 12, 11);
+  border-bottom: 2px solid black;
+}
+
+header li a:active {
+  color: rgb(177, 177, 127);
   border-bottom: 2px solid black;
 }
 
