@@ -8,7 +8,6 @@ This work uses the open-source CFD toolbox *OpenFOAM* paired with patient-specif
 <img src="assets/ProjectFig/TAWSSAneurysm.png"></img>
 ~~~-->
 ![](assets/ProjectFig/TAWSSAneurysmR.png)
-[md1](/menu1/)
 
 # Codes
 ## FasterReconstructPar
