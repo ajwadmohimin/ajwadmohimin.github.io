@@ -2,9 +2,9 @@
 
 <!-- ![](assets/AjwadPIC.jpeg) -->
 ~~~
-<!-- <center> -->
+<!-- <p align = "right"> -->
 <img src="/assets/AjwadPIC.jpeg" height="275,625px"></img>
-<!-- </center> -->
+<!-- </p> -->
 ~~~
 <!-- \\\\ -->
 Hi! \\I am **Md Ajwad Mohimin**, a recent Mechanical Engineering graduate. My passion lies in **Computational Fluid Dynamics** (CFD) and its applications in understanding complex fluid systems, including the flows within the human body, such as **cardiovascular and cerebrovascular flows**.\\
