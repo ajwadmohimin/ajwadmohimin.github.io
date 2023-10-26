@@ -11,6 +11,8 @@ This work uses the open-source CFD toolbox *OpenFOAM* paired with patient-specif
 <img src="/assets/ProjectFig/AneurysmHemodynamics/Aneurysm2.GIF" height="193px"></img>
 </p>
 ~~~ 
+* **Md. A. Mohimin**, N. M. Arefin, and P. Das, "Cerebral Aneurysm Hemodynamics In Low Hematocrit Conditions: Numerical Simulations and Analysis," in 14th International Conference on Mechanical Engineering, Dhaka, Bangladesh, Dec. 2023. (Under Review) \\
+* **Md. A. Mohimin**, P. Das, and Md. A. I. H. Sharker, "Effect of RANS Turbulence Model on The Hemodynamic Factors in A Middle Cerebral Artery Aneurysm," in 7th International Conference on Mechanical Engineering and Renewable Energy 2023, Chattogram, Bangladesh, Nov. 2023. (Accepted for publication)
 
 # Codes
 ## FasterReconstructPar
