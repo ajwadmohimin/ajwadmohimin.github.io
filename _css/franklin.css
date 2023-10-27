@@ -64,10 +64,10 @@ html {
   font-family: Arial, serif;
   color: #a6a2a0;
   text-align: center;
-  margin-top: 6em;
+  margin-top: 4em;
   border-top: 1px solid lightgrey;
   padding-top: 2em;
-  margin-bottom: 4em;
+  margin-bottom: 2em;
 }
 
 /* ==================================================================
@@ -129,6 +129,16 @@ h6 {
   text-align: right;
 }
 
+.franklin-content h7 {
+  padding-bottom: 0.5em;
+  border-bottom: 3px double lightgrey;
+  margin-top: 1.5em;
+  margin-bottom: 1em;
+  text-align: left;
+  font-size: 24px;
+  font-style: ;
+}
+
 .franklin-content h2 {
   padding-bottom: 0.3em;
   border-bottom: 1px solid lightgrey;
@@ -148,6 +158,8 @@ h6 {
 .franklin-content h5 a:hover { text-decoration: none; }
 .franklin-content h6 a { color: inherit; }
 .franklin-content h6 a:hover { text-decoration: none; }
+.franklin-content h7 a { color: inherit; }
+.franklin-content h7 a:hover { text-decoration: none; }
 
 .franklin-content table {
   margin-left: auto;

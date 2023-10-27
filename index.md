@@ -2,13 +2,17 @@
 
 <!-- ![](assets/AjwadPIC.jpeg) -->
 ~~~
-<!-- <p align = "right"> -->
+<p align = "right">
 <img src="/assets/AjwadPIC.jpeg" height="275,625px"></img>
-<!-- </p> -->
+</p>
 ~~~
 
 Hi! \\I am **Md Ajwad Mohimin**, a recent Mechanical Engineering graduate. My passion lies in **Computational Fluid Dynamics** (CFD) and its applications in understanding complex fluid systems, including the flows within the human body, such as **cardiovascular and cerebrovascular flows**.\\
-My undergraduate research works involved flow simulation to understand the hemodynamics inside a patient-specific aneurysm sac. At present, I am working on blood flow simulation in aneurysm under different medical conditions and its treatment option (i.e., flow diverting stents). \\In addition to hemodynamic simulations, I feel enthusiastic about integrating **Machine Learning** into CFD to make flow simulation faster and cheaper. I have practical knowledge of CFD and CAD and proven proficiency in *OpenFOAM, Solidworks, Python, and C++*.\\
+My undergraduate research works involved flow simulation to understand the hemodynamics inside a patient-specific aneurysm sac. At present, I am working on blood flow simulation in aneurysm under different medical conditions and its treatment option (i.e., flow diverting stents). 
+
+In addition to hemodynamic simulations, I had been involved in projects related to aerodynamics, heat transfer, and turbulent flow. I have practical knowledge of CFD and CAD and proven proficiency in *OpenFOAM, Solidworks, Python, and C++*.
+I also feel enthusiastic about integrating **Machine Learning** into CFD to make flow simulation faster and cheaper. \\
+
 My goal is to improve the understanding of physical flow phenomena (including mechanobiology within the human body) using CFD, and I want to continue my journey in research and academia being a supporter of open science and open knowledge.
 \\\\
 **Education**\\
@@ -26,3 +30,10 @@ Research Assistant @ CFD Lab, Dept. of Mechanical Engineering, CUET, BD.
 [LinkedIn](https://www.linkedin.com/in/ajwadmohimin) | Email: [ajwadmohimin@gmail.com](mailto:ajwadmohimin@gmail.com) | [github](https://github.com/ajwadmohimin)
 
 ---------------
+
+<!-- **And,** some pretty figures....
+~~~
+<div align="center">
+<img src="/assets/ProjectFig/anTest.png" height="275,625px"></img>
+</div>
+~~~ -->
