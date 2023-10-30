@@ -31,9 +31,13 @@ Research Assistant @ CFD Lab, Dept. of Mechanical Engineering, CUET, BD.
 
 ---------------
 
-<!-- **And,** some pretty figures....
+**And,** some pretty figures....
 ~~~
 <div align="center">
-<img src="/assets/ProjectFig/anTest.png" height="275,625px"></img>
+<img src="/assets/ProjectFig/indexGallery/anTest.png" height="200px"></img>
+<img src="/assets/ProjectFig/indexGallery/cylURe3900.GIF" height="200px"></img>
+<img src="/assets/ProjectFig/indexGallery/jetWebGreenScalar.GIF" height="200px"></img>
+<img src="/assets/ProjectFig/indexGallery/UsliceMesh.png" height="200px"></img>
+<img src="/assets/ProjectFig/indexGallery/UStreamLines.png" height="200px"></img>
 </div>
-~~~ -->
+~~~

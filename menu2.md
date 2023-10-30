@@ -16,7 +16,13 @@ This work uses the open-source CFD toolbox *OpenFOAM* paired with patient-specif
 ~~~ 
 * **Md. A. Mohimin**, N. M. Arefin, and P. Das, "Cerebral Aneurysm Hemodynamics In Low Hematocrit Conditions: Numerical Simulations and Analysis," in 14th International Conference on Mechanical Engineering, Dhaka, Bangladesh, Dec. 2023. (Under Review) \\
 * **Md. A. Mohimin**, P. Das, and Md. A. I. H. Sharker, "Effect of RANS Turbulence Model on The Hemodynamic Factors in A Middle Cerebral Artery Aneurysm," in 7th International Conference on Mechanical Engineering and Renewable Energy 2023, Chattogram, Bangladesh, Nov. 2023. (Accepted for publication)
+--------
+## Flow Diverting Stents for Aneurysms
+Flow-diverting stents have emerged as a potential minimally invasive treatment option for intracranial aneurysms. When placed across the neck of an aneurysm, a porous stent disrupts the blood inflow into it, which, over time, promotes blood clotting inside the aneurysm sac. Thus, the risk of rupture is minimized by isolating the aneurysm from normal blood circulation.\\
+However, this is a relatively newer technique to treat brain aneurysms and requires further study. This ongoing project seeks to shed light on flow diverter parameters and their optimization for treating aneurysms having different morphology.
 
+* **Md. A. Mohimin**, P. Das, and A. Barua, "Non-Newtonian Effects On Hemodynamics In Stented Model Aneurysm," presented at the Research Fair 2023, CUET, Chattogram-4349, Bangladesh, Aug. 2023. (Poster)
+--------------
 # Codes
 ### FasterReconstructPar
 This simple project of a few lines of code can speed up the reconstruction of decomposed parallel cases in *OpenFOAM*. Using *Python*, this script launches a series of processes for different ranges of timesteps to reconstruct them. [[github repo](https://github.com/ajwadmohimin/FasterReconstructPar)]
